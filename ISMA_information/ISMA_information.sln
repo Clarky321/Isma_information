@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ISMA_information", "ISMA_information\ISMA_information.csproj", "{8402267C-D677-45D5-B616-954C833CC185}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8402267C-D677-45D5-B616-954C833CC185}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8402267C-D677-45D5-B616-954C833CC185}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8402267C-D677-45D5-B616-954C833CC185}.Debug|x64.ActiveCfg = Debug|x64
+		{8402267C-D677-45D5-B616-954C833CC185}.Debug|x64.Build.0 = Debug|x64
+		{8402267C-D677-45D5-B616-954C833CC185}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8402267C-D677-45D5-B616-954C833CC185}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8402267C-D677-45D5-B616-954C833CC185}.Release|x64.ActiveCfg = Release|x64
+		{8402267C-D677-45D5-B616-954C833CC185}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {10744A32-A1B4-4645-B838-778D9A76F770}
+	EndGlobalSection
+EndGlobal

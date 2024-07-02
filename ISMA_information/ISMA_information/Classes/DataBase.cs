@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Configuration;
 using MySqlConnector;
 
-namespace equipment_accounting
+namespace ISMA_information
 {
     class DataBase : IDisposable
     {

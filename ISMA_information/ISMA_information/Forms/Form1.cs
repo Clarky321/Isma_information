@@ -16,6 +16,7 @@ namespace ISMA_information
         public Form1()
         {
             InitializeComponent();
+            StartPosition = FormStartPosition.CenterScreen;
         }
     }
 }

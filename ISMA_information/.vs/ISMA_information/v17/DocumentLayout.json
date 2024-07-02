@@ -1,29 +1,33 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\!!loran-project\\C#\\WinForms\\ISMA_information\\",
+  "WorkspaceRootPath": "D:\\!!loran-project\\C#\\WinForms\\Isma_information\\ISMA_information\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8402267C-D677-45D5-B616-954C833CC185}|ISMA_information\\ISMA_information.csproj|d:\\!!loran-project\\c#\\winforms\\isma_information\\isma_information\\forms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{8402267C-D677-45D5-B616-954C833CC185}|ISMA_information\\ISMA_information.csproj|solutionrelative:isma_information\\forms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{8402267C-D677-45D5-B616-954C833CC185}|ISMA_information\\ISMA_information.csproj|d:\\!!loran-project\\c#\\winforms\\isma_information\\isma_information\\isma_information\\forms\\progressmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8402267C-D677-45D5-B616-954C833CC185}|ISMA_information\\ISMA_information.csproj|solutionrelative:isma_information\\forms\\progressmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8402267C-D677-45D5-B616-954C833CC185}|ISMA_information\\ISMA_information.csproj|d:\\!!loran-project\\c#\\winforms\\isma_information\\isma_information\\forms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8402267C-D677-45D5-B616-954C833CC185}|ISMA_information\\ISMA_information.csproj|solutionrelative:isma_information\\forms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8402267C-D677-45D5-B616-954C833CC185}|ISMA_information\\ISMA_information.csproj|d:\\!!loran-project\\c#\\winforms\\isma_information\\isma_information\\isma_information\\forms\\progressmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8402267C-D677-45D5-B616-954C833CC185}|ISMA_information\\ISMA_information.csproj|solutionrelative:isma_information\\forms\\progressmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8402267C-D677-45D5-B616-954C833CC185}|ISMA_information\\ISMA_information.csproj|D:\\!!loran-project\\C#\\WinForms\\ISMA_information\\isma_information\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8402267C-D677-45D5-B616-954C833CC185}|ISMA_information\\ISMA_information.csproj|solutionrelative:isma_information\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8402267C-D677-45D5-B616-954C833CC185}|ISMA_information\\ISMA_information.csproj|d:\\!!loran-project\\c#\\winforms\\isma_information\\isma_information\\isma_information\\forms\\authentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8402267C-D677-45D5-B616-954C833CC185}|ISMA_information\\ISMA_information.csproj|solutionrelative:isma_information\\forms\\authentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8402267C-D677-45D5-B616-954C833CC185}|ISMA_information\\ISMA_information.csproj|D:\\!!loran-project\\C#\\WinForms\\ISMA_information\\isma_information\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{8402267C-D677-45D5-B616-954C833CC185}|ISMA_information\\ISMA_information.csproj|solutionrelative:isma_information\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{8402267C-D677-45D5-B616-954C833CC185}|ISMA_information\\ISMA_information.csproj|D:\\!!loran-project\\C#\\WinForms\\Isma_information\\ISMA_information\\isma_information\\forms\\authentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8402267C-D677-45D5-B616-954C833CC185}|ISMA_information\\ISMA_information.csproj|solutionrelative:isma_information\\forms\\authentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8402267C-D677-45D5-B616-954C833CC185}|ISMA_information\\ISMA_information.csproj|D:\\!!loran-project\\C#\\WinForms\\ISMA_information\\isma_information\\classes\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8402267C-D677-45D5-B616-954C833CC185}|ISMA_information\\ISMA_information.csproj|D:\\!!loran-project\\C#\\WinForms\\Isma_information\\ISMA_information\\isma_information\\classes\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8402267C-D677-45D5-B616-954C833CC185}|ISMA_information\\ISMA_information.csproj|solutionrelative:isma_information\\classes\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8402267C-D677-45D5-B616-954C833CC185}|ISMA_information\\ISMA_information.csproj|D:\\!!loran-project\\C#\\WinForms\\ISMA_information\\isma_information\\classes\\userlogins.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8402267C-D677-45D5-B616-954C833CC185}|ISMA_information\\ISMA_information.csproj|D:\\!!loran-project\\C#\\WinForms\\Isma_information\\ISMA_information\\isma_information\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8402267C-D677-45D5-B616-954C833CC185}|ISMA_information\\ISMA_information.csproj|solutionrelative:isma_information\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8402267C-D677-45D5-B616-954C833CC185}|ISMA_information\\ISMA_information.csproj|d:\\!!loran-project\\c#\\winforms\\isma_information\\isma_information\\isma_information\\classes\\userlogins.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8402267C-D677-45D5-B616-954C833CC185}|ISMA_information\\ISMA_information.csproj|solutionrelative:isma_information\\classes\\userlogins.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -34,84 +38,96 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "D:\\!!loran-project\\C#\\WinForms\\ISMA_information\\ISMA_information\\Forms\\Form1.cs",
-              "RelativeDocumentMoniker": "ISMA_information\\Forms\\Form1.cs",
-              "ToolTip": "D:\\!!loran-project\\C#\\WinForms\\ISMA_information\\ISMA_information\\Forms\\Form1.cs",
-              "RelativeToolTip": "ISMA_information\\Forms\\Form1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAbAAAA",
+              "DocumentIndex": 0,
+              "Title": "ProgressMenu.cs",
+              "DocumentMoniker": "D:\\!!loran-project\\C#\\WinForms\\Isma_information\\ISMA_information\\ISMA_information\\Forms\\ProgressMenu.cs",
+              "RelativeDocumentMoniker": "ISMA_information\\Forms\\ProgressMenu.cs",
+              "ToolTip": "D:\\!!loran-project\\C#\\WinForms\\Isma_information\\ISMA_information\\ISMA_information\\Forms\\ProgressMenu.cs",
+              "RelativeToolTip": "ISMA_information\\Forms\\ProgressMenu.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAgwBQAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-01T12:09:33.508Z",
+              "WhenOpened": "2024-07-02T11:44:29.605Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "DocumentMoniker": "D:\\!!loran-project\\C#\\WinForms\\ISMA_information\\ISMA_information\\Forms\\Form1.cs",
-              "RelativeDocumentMoniker": "ISMA_information\\Forms\\Form1.cs",
-              "ToolTip": "D:\\!!loran-project\\C#\\WinForms\\ISMA_information\\ISMA_information\\Forms\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "RelativeToolTip": "ISMA_information\\Forms\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentIndex": 1,
+              "Title": "ProgressMenu.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\!!loran-project\\C#\\WinForms\\Isma_information\\ISMA_information\\ISMA_information\\Forms\\ProgressMenu.cs",
+              "RelativeDocumentMoniker": "ISMA_information\\Forms\\ProgressMenu.cs",
+              "ToolTip": "D:\\!!loran-project\\C#\\WinForms\\Isma_information\\ISMA_information\\ISMA_information\\Forms\\ProgressMenu.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "ISMA_information\\Forms\\ProgressMenu.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-01T11:12:12.763Z",
+              "WhenOpened": "2024-07-02T11:43:19.168Z",
               "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\!!loran-project\\C#\\WinForms\\ISMA_information\\ISMA_information\\Program.cs",
-              "RelativeDocumentMoniker": "ISMA_information\\Program.cs",
-              "ToolTip": "D:\\!!loran-project\\C#\\WinForms\\ISMA_information\\ISMA_information\\Program.cs",
-              "RelativeToolTip": "ISMA_information\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAJAAAA",
+              "DocumentIndex": 6,
+              "Title": "UserLogins.cs",
+              "DocumentMoniker": "D:\\!!loran-project\\C#\\WinForms\\Isma_information\\ISMA_information\\ISMA_information\\Classes\\UserLogins.cs",
+              "RelativeDocumentMoniker": "ISMA_information\\Classes\\UserLogins.cs",
+              "ToolTip": "D:\\!!loran-project\\C#\\WinForms\\Isma_information\\ISMA_information\\ISMA_information\\Classes\\UserLogins.cs",
+              "RelativeToolTip": "ISMA_information\\Classes\\UserLogins.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-01T11:44:23.997Z",
+              "WhenOpened": "2024-07-02T11:10:33.688Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "App.config",
-              "DocumentMoniker": "D:\\!!loran-project\\C#\\WinForms\\ISMA_information\\ISMA_information\\App.config",
-              "RelativeDocumentMoniker": "ISMA_information\\App.config",
-              "ToolTip": "D:\\!!loran-project\\C#\\WinForms\\ISMA_information\\ISMA_information\\App.config",
-              "RelativeToolTip": "ISMA_information\\App.config",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-07-01T11:41:16.84Z",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\!!loran-project\\C#\\WinForms\\Isma_information\\ISMA_information\\ISMA_information\\Program.cs",
+              "RelativeDocumentMoniker": "ISMA_information\\Program.cs",
+              "ToolTip": "D:\\!!loran-project\\C#\\WinForms\\Isma_information\\ISMA_information\\ISMA_information\\Program.cs",
+              "RelativeToolTip": "ISMA_information\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T08:03:56.625Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "DataBase.cs",
-              "DocumentMoniker": "D:\\!!loran-project\\C#\\WinForms\\ISMA_information\\ISMA_information\\Classes\\DataBase.cs",
+              "DocumentMoniker": "D:\\!!loran-project\\C#\\WinForms\\Isma_information\\ISMA_information\\ISMA_information\\Classes\\DataBase.cs",
               "RelativeDocumentMoniker": "ISMA_information\\Classes\\DataBase.cs",
-              "ToolTip": "D:\\!!loran-project\\C#\\WinForms\\ISMA_information\\ISMA_information\\Classes\\DataBase.cs",
+              "ToolTip": "D:\\!!loran-project\\C#\\WinForms\\Isma_information\\ISMA_information\\ISMA_information\\Classes\\DataBase.cs",
               "RelativeToolTip": "ISMA_information\\Classes\\DataBase.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAABEAAAAAAAAA",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACAAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-01T11:39:41.98Z",
+              "WhenOpened": "2024-07-02T08:03:05.686Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "UserLogins.cs",
-              "DocumentMoniker": "D:\\!!loran-project\\C#\\WinForms\\ISMA_information\\ISMA_information\\Classes\\UserLogins.cs",
-              "RelativeDocumentMoniker": "ISMA_information\\Classes\\UserLogins.cs",
-              "ToolTip": "D:\\!!loran-project\\C#\\WinForms\\ISMA_information\\ISMA_information\\Classes\\UserLogins.cs",
-              "RelativeToolTip": "ISMA_information\\Classes\\UserLogins.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAAA4AAAA1AAAA",
+              "DocumentIndex": 3,
+              "Title": "Authentication.cs",
+              "DocumentMoniker": "D:\\!!loran-project\\C#\\WinForms\\Isma_information\\ISMA_information\\ISMA_information\\Forms\\Authentication.cs",
+              "RelativeDocumentMoniker": "ISMA_information\\Forms\\Authentication.cs",
+              "ToolTip": "D:\\!!loran-project\\C#\\WinForms\\Isma_information\\ISMA_information\\ISMA_information\\Forms\\Authentication.cs",
+              "RelativeToolTip": "ISMA_information\\Forms\\Authentication.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAAEcAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-01T11:42:04.242Z",
+              "WhenOpened": "2024-07-02T07:53:53.556Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Authentication.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\!!loran-project\\C#\\WinForms\\Isma_information\\ISMA_information\\ISMA_information\\Forms\\Authentication.cs",
+              "RelativeDocumentMoniker": "ISMA_information\\Forms\\Authentication.cs",
+              "ToolTip": "D:\\!!loran-project\\C#\\WinForms\\Isma_information\\ISMA_information\\ISMA_information\\Forms\\Authentication.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "ISMA_information\\Forms\\Authentication.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T07:49:39.227Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
             }
           ]
         }

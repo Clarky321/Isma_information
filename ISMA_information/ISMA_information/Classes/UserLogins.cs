@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using MySqlConnector;
 
-namespace equipment_accounting
+namespace ISMA_information
 {
     // Класс для работы с учетными записями пользователей.
     public class UserLogins : IDisposable

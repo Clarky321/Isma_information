@@ -2,25 +2,24 @@
 using System.Collections.Generic;
 using System.Windows.Forms;
 using ComponentFactory.Krypton.Toolkit;
-using ISMA_information;
 using MySqlConnector;
 
 namespace ISMA_information.Forms
 {
     public partial class Authentication : KryptonForm
     {
-        private DataBase db;
-
-        bool isAdmin = false;
+        private readonly DataBase db;
+        private bool isAdmin = false;
 
         public Authentication()
         {
             InitializeComponent();
             StartPosition = FormStartPosition.CenterScreen;
 
-            db = new DataBase("MyConnectionStringSql");
+            FormClosed += new FormClosedEventHandler(OnFormClosed);
 
-            isAdmin = true;
+            db = new DataBase("MyConnectionStringSql");
+            TextBox_password.UseSystemPasswordChar = true;
         }
 
         private void Authentication_Load(object sender, EventArgs e)
@@ -35,17 +34,21 @@ namespace ISMA_information.Forms
             TextBox_password.MaxLength = 50;
         }
 
+        private void CheckBox_password_CheckedChanged(object sender, EventArgs e)
+        {
+            TextBox_password.UseSystemPasswordChar = !CheckBox_password.Checked;
+        }
+
         private void LoadUserLogins()
         {
             try
             {
                 List<string> logins = db.GetUniqueUserLogins();
-
                 ComboBox_log_in.Items.AddRange(logins.ToArray());
             }
             catch (Exception ex)
             {
-                MessageBox.Show("Ошибка при загрузке логинов: " + ex.Message, "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                MessageBox.Show($"Ошибка при загрузке логинов: {ex.Message}", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
         }
 
@@ -53,14 +56,12 @@ namespace ISMA_information.Forms
         {
             string loginUser = ComboBox_log_in.Text;
             string passwordUser = TextBox_password.Text;
-
             string query = $"SELECT isAdmin FROM register WHERE login_user = '{loginUser}' AND password_user = '{passwordUser}'";
 
             try
             {
                 db.OpenConnection();
-
-                var command = db.ExecuteQuery(query);
+                var command = db.CreateCommand(query);
 
                 using (MySqlDataReader reader = command.ExecuteReader())
                 {
@@ -83,22 +84,27 @@ namespace ISMA_information.Forms
                 {
                     MessageBox.Show("Вы вошли в систему", "Success", MessageBoxButtons.OK, MessageBoxIcon.Information);
                 }
+
+                // Переход на главную форму после успешной аутентификации
+                MainForm mainForm = new MainForm();
+                mainForm.Show();
+                this.Hide();
             }
             catch (Exception ex)
             {
-                MessageBox.Show("Ошибка при выполнении запроса: " + ex.Message, "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                MessageBox.Show($"Ошибка при выполнении запроса: {ex.Message}", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
             finally
             {
                 db.CloseConnection();
             }
-
-            Close();
         }
 
         private void btnEnter_Click(object sender, EventArgs e)
         {
             AuthAccount();
         }
+
+        private void OnFormClosed(object sender, FormClosedEventArgs e) { Application.Exit(); }
     }
 }

@@ -10,9 +10,9 @@ namespace ISMA_information
         private readonly string connectionString;
         private MySqlConnection mysqlConnection;
 
-        public DataBase(string MyConnectionStringSql)
+        public DataBase(string connectionStringKey)
         {
-            connectionString = ConfigurationManager.ConnectionStrings[MyConnectionStringSql].ConnectionString;
+            connectionString = ConfigurationManager.ConnectionStrings[connectionStringKey].ConnectionString;
             mysqlConnection = new MySqlConnection(connectionString);
         }
 
@@ -20,7 +20,7 @@ namespace ISMA_information
 
         public List<string> GetUniqueUserLogins()
         {
-            using (UserLogins userLogins = new UserLogins(this.connectionString))
+            using (UserLogins userLogins = new UserLogins(connectionString))
             {
                 return userLogins.GetUniqueUserLogins();
             }
@@ -42,18 +42,18 @@ namespace ISMA_information
             }
         }
 
-        public MySqlCommand ExecuteQuery(string query)
+        public MySqlCommand CreateCommand(string query)
         {
             OpenConnection();
-            MySqlCommand command = new MySqlCommand(query, mysqlConnection);
-            return command;
+            return new MySqlCommand(query, mysqlConnection);
         }
 
         public void ExecuteNonQuery(string query)
         {
-            OpenConnection();
-            MySqlCommand command = new MySqlCommand(query, mysqlConnection);
-            command.ExecuteNonQuery();
+            using (MySqlCommand command = CreateCommand(query))
+            {
+                command.ExecuteNonQuery();
+            }
         }
 
         public void Dispose()

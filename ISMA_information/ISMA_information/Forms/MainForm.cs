@@ -11,12 +11,16 @@ using ComponentFactory.Krypton.Toolkit;
 
 namespace ISMA_information
 {
-    public partial class Form1 : KryptonForm
+    public partial class MainForm : KryptonForm
     {
-        public Form1()
+        public MainForm()
         {
             InitializeComponent();
             StartPosition = FormStartPosition.CenterScreen;
+
+            FormClosed += new FormClosedEventHandler(OnFormClosed);
         }
+
+        private void OnFormClosed(object sender, FormClosedEventArgs e) { Application.Exit(); }
     }
 }

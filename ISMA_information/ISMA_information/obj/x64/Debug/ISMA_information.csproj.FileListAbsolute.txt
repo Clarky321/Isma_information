@@ -103,7 +103,6 @@ D:\!!loran-project\C#\WinForms\Isma_information\ISMA_information\ISMA_informatio
 D:\!!loran-project\C#\WinForms\Isma_information\ISMA_information\ISMA_information\obj\x64\Debug\ISMA_information.csproj.AssemblyReference.cache
 D:\!!loran-project\C#\WinForms\Isma_information\ISMA_information\ISMA_information\obj\x64\Debug\ISMA_information.csproj.SuggestedBindingRedirects.cache
 D:\!!loran-project\C#\WinForms\Isma_information\ISMA_information\ISMA_information\obj\x64\Debug\ISMA_information.exe.config
-D:\!!loran-project\C#\WinForms\Isma_information\ISMA_information\ISMA_information\obj\x64\Debug\ISMA_information.Form1.resources
 D:\!!loran-project\C#\WinForms\Isma_information\ISMA_information\ISMA_information\obj\x64\Debug\ISMA_information.Properties.Resources.resources
 D:\!!loran-project\C#\WinForms\Isma_information\ISMA_information\ISMA_information\obj\x64\Debug\ISMA_information.csproj.GenerateResource.cache
 D:\!!loran-project\C#\WinForms\Isma_information\ISMA_information\ISMA_information\obj\x64\Debug\ISMA_information.csproj.CoreCompileInputs.cache
@@ -112,3 +111,4 @@ D:\!!loran-project\C#\WinForms\Isma_information\ISMA_information\ISMA_informatio
 D:\!!loran-project\C#\WinForms\Isma_information\ISMA_information\ISMA_information\obj\x64\Debug\ISMA_information.pdb
 D:\!!loran-project\C#\WinForms\Isma_information\ISMA_information\ISMA_information\obj\x64\Debug\ISMA_information.Forms.Authentication.resources
 D:\!!loran-project\C#\WinForms\Isma_information\ISMA_information\ISMA_information\obj\x64\Debug\ISMA_information.Forms.ProgressMenu.resources
+D:\!!loran-project\C#\WinForms\Isma_information\ISMA_information\ISMA_information\obj\x64\Debug\ISMA_information.MainForm.resources

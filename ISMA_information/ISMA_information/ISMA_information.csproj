@@ -142,6 +142,12 @@
   <ItemGroup>
     <Compile Include="Classes\DataBase.cs" />
     <Compile Include="Classes\UserLogins.cs" />
+    <Compile Include="FormsUser\ControlTechnique.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="FormsUser\ControlTechnique.Designer.cs">
+      <DependentUpon>ControlTechnique.cs</DependentUpon>
+    </Compile>
     <Compile Include="Forms\Authentication.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -162,6 +168,9 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="FormsUser\ControlTechnique.resx">
+      <DependentUpon>ControlTechnique.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Forms\Authentication.resx">
       <DependentUpon>Authentication.cs</DependentUpon>
     </EmbeddedResource>

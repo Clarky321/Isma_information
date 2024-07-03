@@ -112,3 +112,4 @@ D:\!!loran-project\C#\WinForms\Isma_information\ISMA_information\ISMA_informatio
 D:\!!loran-project\C#\WinForms\Isma_information\ISMA_information\ISMA_information\obj\x64\Debug\ISMA_information.Forms.Authentication.resources
 D:\!!loran-project\C#\WinForms\Isma_information\ISMA_information\ISMA_information\obj\x64\Debug\ISMA_information.Forms.ProgressMenu.resources
 D:\!!loran-project\C#\WinForms\Isma_information\ISMA_information\ISMA_information\obj\x64\Debug\ISMA_information.MainForm.resources
+D:\!!loran-project\C#\WinForms\Isma_information\ISMA_information\ISMA_information\obj\x64\Debug\ISMA_information.FormsUser.ControlTechnique.resources

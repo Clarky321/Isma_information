@@ -3,12 +3,28 @@
   "WorkspaceRootPath": "D:\\!!loran-project\\C#\\WinForms\\Isma_information\\ISMA_information\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8402267C-D677-45D5-B616-954C833CC185}|ISMA_information\\ISMA_information.csproj|d:\\!!loran-project\\c#\\winforms\\isma_information\\isma_information\\isma_information\\forms\\progressmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{8402267C-D677-45D5-B616-954C833CC185}|ISMA_information\\ISMA_information.csproj|solutionrelative:isma_information\\forms\\progressmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{8402267C-D677-45D5-B616-954C833CC185}|ISMA_information\\ISMA_information.csproj|d:\\!!loran-project\\c#\\winforms\\isma_information\\isma_information\\isma_information\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8402267C-D677-45D5-B616-954C833CC185}|ISMA_information\\ISMA_information.csproj|solutionrelative:isma_information\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8402267C-D677-45D5-B616-954C833CC185}|ISMA_information\\ISMA_information.csproj|d:\\!!loran-project\\c#\\winforms\\isma_information\\isma_information\\isma_information\\forms\\progressmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8402267C-D677-45D5-B616-954C833CC185}|ISMA_information\\ISMA_information.csproj|d:\\!!loran-project\\c#\\winforms\\isma_information\\isma_information\\isma_information\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8402267C-D677-45D5-B616-954C833CC185}|ISMA_information\\ISMA_information.csproj|solutionrelative:isma_information\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8402267C-D677-45D5-B616-954C833CC185}|ISMA_information\\ISMA_information.csproj|d:\\!!loran-project\\c#\\winforms\\isma_information\\isma_information\\isma_information\\formsuser\\controltechnique.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8402267C-D677-45D5-B616-954C833CC185}|ISMA_information\\ISMA_information.csproj|solutionrelative:isma_information\\formsuser\\controltechnique.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8402267C-D677-45D5-B616-954C833CC185}|ISMA_information\\ISMA_information.csproj|d:\\!!loran-project\\c#\\winforms\\isma_information\\isma_information\\isma_information\\formsuser\\controltechnique.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8402267C-D677-45D5-B616-954C833CC185}|ISMA_information\\ISMA_information.csproj|solutionrelative:isma_information\\formsuser\\controltechnique.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8402267C-D677-45D5-B616-954C833CC185}|ISMA_information\\ISMA_information.csproj|D:\\!!loran-project\\C#\\WinForms\\Isma_information\\ISMA_information\\isma_information\\forms\\progressmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8402267C-D677-45D5-B616-954C833CC185}|ISMA_information\\ISMA_information.csproj|solutionrelative:isma_information\\forms\\progressmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8402267C-D677-45D5-B616-954C833CC185}|ISMA_information\\ISMA_information.csproj|d:\\!!loran-project\\c#\\winforms\\isma_information\\isma_information\\isma_information\\forms\\progressmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8402267C-D677-45D5-B616-954C833CC185}|ISMA_information\\ISMA_information.csproj|solutionrelative:isma_information\\forms\\progressmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,24 +34,74 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ControlTechnique.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\!!loran-project\\C#\\WinForms\\Isma_information\\ISMA_information\\ISMA_information\\FormsUser\\ControlTechnique.cs",
+              "RelativeDocumentMoniker": "ISMA_information\\FormsUser\\ControlTechnique.cs",
+              "ToolTip": "D:\\!!loran-project\\C#\\WinForms\\Isma_information\\ISMA_information\\ISMA_information\\FormsUser\\ControlTechnique.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "ISMA_information\\FormsUser\\ControlTechnique.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T10:57:56.385Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "D:\\!!loran-project\\C#\\WinForms\\Isma_information\\ISMA_information\\ISMA_information\\Forms\\MainForm.cs",
+              "RelativeDocumentMoniker": "ISMA_information\\Forms\\MainForm.cs",
+              "ToolTip": "D:\\!!loran-project\\C#\\WinForms\\Isma_information\\ISMA_information\\ISMA_information\\Forms\\MainForm.cs",
+              "RelativeToolTip": "ISMA_information\\Forms\\MainForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T10:32:05.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\!!loran-project\\C#\\WinForms\\Isma_information\\ISMA_information\\ISMA_information\\Forms\\MainForm.cs",
+              "RelativeDocumentMoniker": "ISMA_information\\Forms\\MainForm.cs",
+              "ToolTip": "D:\\!!loran-project\\C#\\WinForms\\Isma_information\\ISMA_information\\ISMA_information\\Forms\\MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "ISMA_information\\Forms\\MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T10:11:08.509Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ControlTechnique.cs",
+              "DocumentMoniker": "D:\\!!loran-project\\C#\\WinForms\\Isma_information\\ISMA_information\\ISMA_information\\FormsUser\\ControlTechnique.cs",
+              "RelativeDocumentMoniker": "ISMA_information\\FormsUser\\ControlTechnique.cs",
+              "ToolTip": "D:\\!!loran-project\\C#\\WinForms\\Isma_information\\ISMA_information\\ISMA_information\\FormsUser\\ControlTechnique.cs",
+              "RelativeToolTip": "ISMA_information\\FormsUser\\ControlTechnique.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T11:00:31.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "ProgressMenu.cs",
               "DocumentMoniker": "D:\\!!loran-project\\C#\\WinForms\\Isma_information\\ISMA_information\\ISMA_information\\Forms\\ProgressMenu.cs",
               "RelativeDocumentMoniker": "ISMA_information\\Forms\\ProgressMenu.cs",
               "ToolTip": "D:\\!!loran-project\\C#\\WinForms\\Isma_information\\ISMA_information\\ISMA_information\\Forms\\ProgressMenu.cs",
               "RelativeToolTip": "ISMA_information\\Forms\\ProgressMenu.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-03T10:04:20.136Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "ProgressMenu.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "DocumentMoniker": "D:\\!!loran-project\\C#\\WinForms\\Isma_information\\ISMA_information\\ISMA_information\\Forms\\ProgressMenu.cs",
               "RelativeDocumentMoniker": "ISMA_information\\Forms\\ProgressMenu.cs",
